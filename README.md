@@ -1,6 +1,6 @@
 # Dashboard Admin
 
->[![View Demo](https://img.shields.io/badge/View%20Demo-Click-brightgreen)](https://github.com/Erfan-Esmaili/Dashboard-Admin)
+>[![View Demo](https://img.shields.io/badge/View%20Demo-Click-brightgreen)](https://github.com/Erfan-Esmaili/Dashboard-Admin/)
 
 
 ## 🔧 Features
