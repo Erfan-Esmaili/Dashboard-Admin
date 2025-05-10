@@ -1,4 +1,7 @@
-# Dashboard 
+# Dashboard Admin
+
+>[![View Demo](https://img.shields.io/badge/View%20Demo-Click-brightgreen)](https://github.com/Erfan-Esmaili/Dashboard-Admin)
+
 
 ## 🔧 Features
 
@@ -6,6 +9,7 @@
 - 🛠️ **Admin Controls** 
 - 📱 **Fully Responsive** 
 - 📊 **User Dashboard** 
+
 
 
 ## ⚙️ Technologies Used
@@ -18,4 +22,15 @@
 
 ## 📷Screenshots
 
-<img src="screenshot/dash1">
+### 🌒Dark mode
+<img src="screenshots/dash1.png">
+
+###  ☀️light mode
+<img src="screenshots/dash1.png">
+
+<br>
+
+##  📱Responsive
+
+<img src="screenshots/dash4.png">
+<img src="screenshots/dash3.png">
